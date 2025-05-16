@@ -25,7 +25,7 @@ SECRET_KEY = 'abcdefghijklmnopqrstuvwxyz1234567890!@#$%^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'cart-ecommerce.onrender.com']
 
 # Application definition
 
